@@ -1,9 +1,0 @@
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\bin\Debug\Mathematics.dll
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\bin\Debug\Mathematics.pdb
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\bin\Debug\BaseLib.dll
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\bin\Debug\BaseLib.pdb
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\obj\Debug\Mathematics.csprojAssemblyReference.cache
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\obj\Debug\Mathematics.csproj.CopyComplete
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\obj\Debug\Mathematics.dll
-D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\Mathematics\obj\Debug\Mathematics.pdb
