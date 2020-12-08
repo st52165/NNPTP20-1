@@ -19,11 +19,11 @@ namespace INPTPZ1.Mathematics.Tests
             Complex summand = new Complex(10, 20);
             Complex addend = new Complex(1, 2);
 
-            Complex total = summand + addend;
+            Complex result = summand + addend;
 
             Complex expectedResult = new Complex(11, 22);
 
-            Assert.AreEqual(expectedResult, total);
+            Assert.AreEqual(expectedResult, result);
         }
     }
 }
