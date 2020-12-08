@@ -86,7 +86,7 @@ namespace Mathematics
         private void ColorizePixelByRootNumber(Point calculatedPixel, NewtonSolutionInfo pixelInfo)
         {
             Color finalPixelColor = Colors[pixelInfo.RootNumber % Colors.Count];
-            finalPixelColor = MultiplyColor(finalPixelColor, -pixelInfo.Iterations * 2);
+            finalPixelColor = AddCoefficientToColorSubColorsValues(finalPixelColor, -pixelInfo.Iterations * 2);
 
             FractalImage.SetPixel((int)calculatedPixel.X, (int)calculatedPixel.Y, finalPixelColor);
         }
@@ -105,7 +105,7 @@ namespace Mathematics
                 Color.Yellow, Color.Orange, Color.Fuchsia,
                 Color.Gold, Color.Cyan, Color.Magenta
             };
-        private static Color MultiplyColor(Color basic, int coefficient)
+        private static Color AddCoefficientToColorSubColorsValues(Color basic, int coefficient)
         {
             return Color.FromArgb
                 (
