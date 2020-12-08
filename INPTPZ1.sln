@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLib", "BaseLib\BaseLib.csproj", "{6DE2BF74-2B42-498D-9CB7-F3D05DD2D26F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INPTPZ1Tests", "INPTPZ1Tests\INPTPZ1Tests.csproj", "{3C9530EC-9B8B-4DA5-92B9-CE7296C46D17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6DE2BF74-2B42-498D-9CB7-F3D05DD2D26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE2BF74-2B42-498D-9CB7-F3D05DD2D26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE2BF74-2B42-498D-9CB7-F3D05DD2D26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9530EC-9B8B-4DA5-92B9-CE7296C46D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9530EC-9B8B-4DA5-92B9-CE7296C46D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9530EC-9B8B-4DA5-92B9-CE7296C46D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9530EC-9B8B-4DA5-92B9-CE7296C46D17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

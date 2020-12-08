@@ -1,0 +1,5 @@
+D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\BaseLib\bin\Debug\BaseLib.dll
+D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\BaseLib\bin\Debug\BaseLib.pdb
+D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\BaseLib\obj\Debug\BaseLib.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\BaseLib\obj\Debug\BaseLib.dll
+D:\Dokumenty\Skola\UPCE\Magisterské studium\1. Prvák\NNPTP\Semestrálky\1\NNPTP20-1\BaseLib\obj\Debug\BaseLib.pdb
